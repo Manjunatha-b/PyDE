@@ -1,8 +1,8 @@
-##Client
+## Client
 
 Made with react, material UI & ace editor, all stuff in app.js
 
-##Server
+## Server
 
 Made with Flask<br/>
 
